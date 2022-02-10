@@ -1,12 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
+
 <body>
-    
+    <form>
+        <div> <label> Name </label>
+            <input type="text" id="input1"><br>
+        </div>
+        <div>
+            <label> Age </label>
+            <input type="text" id="input2"><br>
+        </div>
+        <div>
+            <label> Weight </label>
+            <input type="text" id="input3"><br>
+        </div>
+        <div>
+            <button class="btn" onclick="healthCheck()"> Submit </button>
+        </div>
+        <div>
+            <p id="result1"> result is here
+            </p>
+            <p id="result2">result is here
+
+            </p>
+            <p id="result3">
+                result is here
+            </p>
+        </div>
+
+    </form>
+    <script src="myscript.js"></script>
 </body>
+
 </html>
