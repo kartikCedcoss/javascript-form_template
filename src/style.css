@@ -1,0 +1,32 @@
+#input1 {
+    margin: 4em 8em 2em 4em;
+    padding: 5px 16px;
+  }
+  #input2 {
+    margin: 0em 8em 2em 4.9em;
+    padding: 5px 16px;
+  }
+  #input3 {
+    margin: 0em 8em 2em 3.6em;
+    padding: 5px 16px;
+  }
+  .div1 {
+    margin: 0em 4em 0em 5em;
+  }
+  .div2 {
+    margin: 0em 4em 0em 5em;
+  }
+  .div3 {
+    margin: 0em 4em 0em 5em;
+  }
+  .divbtn {
+    margin: 2em 4em 0em 5em;
+  }
+  .divresult {
+    margin: 3em 4em 0em 5em;
+  }
+  .btn {
+    padding: 6px 35px;
+    background-color: white;
+    font: bold;
+  }
